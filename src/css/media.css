@@ -1,0 +1,416 @@
+@media (max-width: 1023px) {
+    .bento-menu {
+        width: 55px;
+        height: 55px;
+        display: block;
+    }
+
+    .nav__container {
+        display: flex;
+    }
+
+    .nav__link {
+        display: none;
+    }
+
+    .main_info {
+        width: auto;
+        background-color: #fff;
+        box-shadow: none;
+    }
+
+    .sticky__containers {
+        width: auto;
+    }
+
+    .sticky__containers-bitcoin {
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .pages-wrapper {
+        display: none;
+    }
+
+    .pages-mobile {
+        display: flex;
+        justify-content: center;
+        margin: 2rem 2rem;
+    }
+
+    .page_numbers {
+        display: none;
+    }
+
+    .main__containers {
+        display: flex;
+        flex-direction: column;
+        background-color: #fff;
+        box-shadow: none;
+    }
+
+    .reverse {
+        display: flex;
+        flex-direction: column-reverse;
+        width: auto;
+    }
+
+    .main__containers-subtext {
+        display: none;
+    }
+
+    .main__containers-img {
+        width: 22rem;
+        height: 15rem;
+    }
+
+    .main__containers-subinfo {
+        display: flex;
+        flex-direction: column;
+        margin-left: 2rem;
+        justify-content: center;
+    }
+
+    .main__containers-block {
+        margin-bottom: 3rem;
+        height: auto;
+        width: 100%;
+    }
+}
+
+
+
+@media (max-width: 767px) {
+    .body {
+        width: 4rem;
+    }
+
+    .nav__container {
+        width: auto;
+    }
+    .nav__link {
+        display: none;
+    }
+
+    .nav__links {
+        padding: 0;
+    }
+
+    .nav-logo {
+        display: flex;
+    align-items: center;
+    width: 14rem;
+    height: 2rem;
+    justify-content: center;
+    margin-right: 1rem;
+    }
+
+    .bento-menu {
+        width: 55px;
+        height: 55px;
+        display: block;
+    }
+
+    #inputfield.open {
+    left: 0rem;
+    display: block;
+    position: absolute;
+    top: 4rem;
+    }
+
+    .sticky__containers-info {
+        width: auto;
+    }
+
+    .sticky__containers-bitcoin {
+        width: auto;
+    }
+
+    .main__container {
+        width: auto;
+        height: auto;
+        /* margin: 0rem 20rem; */
+        background-color: rgba(221,51,51,0);
+        box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.15);
+        padding: 1rem;
+        margin: auto;
+    }
+    .main__button-guide, .main__button-ico {
+        display: none;
+    }
+    .main__containers {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+
+    .nav__link-gambling {
+        display: none;
+    }
+
+    .main__containers-subinfo {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-left: 0.5rem;
+    }
+
+    .main__containers-date {
+        font-size: 10px;
+    }
+
+    .main__containers-subtext {
+        display: none;
+    }
+
+    .page_numbers {
+        display: block;
+    }
+
+    .sticky__containers {
+        width: auto;
+    }
+
+    .sticky__containers-text {
+        margin-left: 1rem;
+        text-align: center;
+    }
+
+    .sticky__containers-bitcoin {
+        align-items: center;
+        text-align: center;
+        width: auto;
+    }
+
+    .sticky__nftcontainers-text {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .sticky__containers-subtitle, .sticky__containers-subtitle-info {
+        margin-top: 0.6rem;
+    }
+
+    .pages, .contact-info {
+        margin: auto;
+    }
+
+    .contact-info {
+    display: flex;
+    width: auto;
+    margin: auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    align-items: center;
+    }
+
+    .contact-info__links {
+        display: flex;
+        margin-left: 0;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .footer {
+        display: none;
+    }
+
+    .footer-text {
+        width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    }
+
+    .footer__categories {
+        width: 80%;
+        display: flex;
+        align-items: flex-start;
+        margin-top: 2rem;
+        margin-left: 0;
+    }
+
+    .footer__news-title {
+        display: flex;
+        margin-top: 2rem;
+        margin-left: 1rem;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .main__containers-info {
+        display: flex;
+        align-items: center;
+        margin: 0.3rem 0rem;
+    }
+    .main__containers-img {
+        width: 12rem;
+        height: 6rem;
+        background: url('/assets/main/main-img.webp') center/cover no-repeat;
+    }
+
+    .main__containers-text {
+        font-size: 14px;
+        text-align: left;
+    }
+
+    .main__containers-text, .main__containers-autor, .main__containers-subtitle__info {
+        margin-bottom: 12px;
+    }
+
+    .main__containers-subtitle__info {
+        text-align: left;
+    }
+
+    .main__containers-block {
+        width: auto;
+        height: auto;
+        margin-bottom: 1rem;
+    }
+
+    .main__containers-blocks {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pages-mobile {
+        width: auto;
+        display: block;
+        margin: 20px 0rem;
+    }
+
+    .reverse {
+        display: flex;
+        flex-direction: column-reverse;
+        width: auto;
+    }
+
+    .sticky__containers-bitget {
+        display: flex;
+        align-items: center;
+    }
+
+    .pages-wrapper {
+        display: none;
+    }
+
+    .numbers_pages {
+        justify-content: center;
+    }
+
+    .sticky__containers-title::after {
+        width: 12rem;
+    }
+
+    .page_numbers {
+        display: none;
+    }
+
+    .nav__link-gambling {
+        display: none;
+    }
+
+    .footer__main-info {
+        width: 100%;
+        display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .footer__news-info {
+        width: 96%;
+        display: flex;
+        margin-top: 40px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .footer__news-date {
+        margin-top: 0;
+    }
+
+    .footer__news-img {
+    width: 13rem;
+    height: 4rem;
+    }
+
+    .footer__news {
+        display: flex;
+        align-items: flex-start;
+        margin-left: 0;
+    }
+
+    .news-list, .footer__news-subtitle {
+        color: white;
+    }
+
+    .footer__news-subtitle {
+        margin-bottom: 0.5rem;
+        font-size: 13px;
+        margin-left: 5px
+    }
+
+    .footer__news-info, .footer-text {
+    display: flex;
+    text-align: left;
+    margin-left: 10px;
+    }
+
+    .footer__decs-title {
+        text-align: center;
+    }
+
+    .footer__decs-title {
+        width: 71%;
+    }
+
+    .footer__decs {
+        width: 100%;
+    }
+
+    .footer__decs {
+    margin-left: 0;
+    margin-bottom: 2rem;
+    align-items: center;
+    }
+
+    .footer__news-date {
+        font-size: 10px;
+        text-align: left;
+    }
+
+    .articles {
+        text-align: left;
+        font-size: 0.9rem;
+    }
+
+    .contact-info {
+        display: flex;
+        width: auto;
+        margin: auto;
+        flex-direction: column-reverse;
+        align-content: space-around;
+    }
+
+    .contact-info__rights {
+        padding-top: 10px;
+    }
+
+    .contact-info__link {
+        margin-right: 0;
+        margin-bottom: 4px;
+    }
+
+    .footer__decs-img {
+    width: 95%;
+    height: 12%;
+    }
+
+}
