@@ -1,0 +1,601 @@
+@media (max-width: 1280px) {
+    .nav__link-gambling {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .main__container {
+        margin: auto;
+    }
+
+    .main__containers {
+        margin: auto;
+    }
+
+    .pages-wrapper {
+        height: auto;
+        margin: 0;
+    }
+
+    .footer__decs-img {
+        width: 100%;
+    }
+
+    .footer__main-info {
+        margin: 0;
+    }
+
+    .contact-info_main {
+        margin: 0;
+    }
+
+    #inputfield.open {
+        left: 28rem;
+        top: 3rem;
+    }
+}
+
+
+
+@media (max-width: 1024px) {
+    .bento-menu {
+        width: 55px;
+        height: 55px;
+        display: block;
+        display: -webkit-block;
+    }
+
+    .nav__container {
+        display: flex;
+        display: -webkit-flex;
+    }
+
+    .nav__link {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .main_info {
+        width: auto;
+        background-color: #fff;
+        box-shadow: none;
+    }
+
+    .sticky__containers {
+        width: auto;
+    }
+
+    .sticky__containers-bitcoin {
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .pages-wrapper {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .pages-mobile {
+        display: flex;
+        display: -webkit-flex;
+        justify-content: center;
+        -webkit-justify-content: center;
+        margin: 2rem 2rem;
+    }
+
+    .page_numbers {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .main__containers {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        background-color: #fff;
+        box-shadow: none;
+    }
+
+    .reverse {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column-reverse;
+        -webkit-flex-direction: column-reverse;
+        width: auto;
+    }
+
+    .main__containers-subtext {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .main__containers-img {
+        width: 22rem;
+        height: 15rem;
+    }
+
+    .main__containers-subinfo {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        margin-left: 2rem;
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+
+    .main__containers-block {
+        margin-bottom: 3rem;
+        height: auto;
+        width: auto;
+    }
+
+    .footer__decs-title {
+        height: auto;
+        margin-bottom: 1rem;
+        margin-top: 0rem;
+    }
+
+    .footer__decs-img {
+        width: 102%;
+        height: 7%;
+    }
+
+    .footer__categories {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+
+@media (max-width: 767px) {
+    .body {
+        width: 4rem;
+    }
+
+    .nav__container {
+        width: auto;
+    }
+    .nav__link {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .nav__links {
+        padding: 0;
+    }
+
+    .nav-logo {
+        display: flex;
+        display: -webkit-flex;
+    align-items: center;
+    -webkit-align-items: center;
+    width: 14rem;
+    height: 2rem;
+    justify-content: center;
+    -webkit-justify-content: center;
+    margin-right: 1rem;
+    }
+
+    .bento-menu {
+        width: 55px;
+        height: 55px;
+        display: block;
+        display: -webkit-block;
+    }
+
+    #inputfield.open {
+    left: 0rem;
+    display: block;
+    display: -webkit-block;
+    position: absolute;
+    top: 4rem;
+    }
+
+    .sticky__containers-info {
+        width: auto;
+    }
+
+    .sticky__containers-bitcoin {
+        width: auto;
+    }
+
+    .main__container {
+        width: auto;
+        height: auto;
+        background-color: rgba(221,51,51,0);
+        box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.15);
+        padding: 1rem;
+        margin: auto;
+    }
+    .main__button-guide, .main__button-ico {
+        display: none;
+        display: -webkit-none;
+    }
+    .main__containers {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+
+    .nav__link-gambling {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .main__containers-subinfo {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        text-align: center;
+        -webkit-text-align: center;
+        margin-left: 0.5rem;
+    }
+
+    .main__containers-date {
+        font-size: 10px;
+    }
+
+    .main__containers-subtext {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .page_numbers {
+        display: block;
+        display: -webkit-block;
+    }
+
+    .sticky__containers {
+        width: auto;
+    }
+
+    .sticky__containers-text {
+        margin-left: 10rem;
+        text-align: left;
+        -webkit-text-align: left;
+    }
+
+    .sticky__containers-bitcoin {
+        align-items: center;
+        -webkit-align-items: center;
+        text-align: center;
+        -webkit-text-align: center;
+        width: auto;
+    }
+
+    .sticky__nftcontainers-text {
+        display: flex;
+        display: -webkit-flex;
+    }
+
+    .sticky__containers-subtitle, .sticky__containers-subtitle-info {
+        margin-top: 0.6rem;
+    }
+
+    .sticky__containers-subtitle {
+    width: auto;
+    text-align: left;
+    -webkit-text-align: left;
+    margin-left: 2rem;
+    font-size: 13px;
+    }
+
+    .sticky__nftcontainers-img {
+        width: 12rem;
+        height: 9rem;
+    }
+
+    .sticky__containers-subtitle-Compra {
+        color: #4DB2EC;
+        font-size: 13px;
+        text-decoration: none;
+    }
+
+    .stickycompra__containers-subtitle-info {
+        font-size: 13px;
+    }
+
+    .sticky__containers-subtitle-info {
+        margin-left: 3rem;
+        font-size: 13px;
+    }
+
+    .pages, .contact-info {
+        margin: auto;
+    }
+
+    .contact-info {
+    display: flex;
+    display: -webkit-flex;
+    width: auto;
+    margin: auto;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    align-content: flex-end;
+    -webkit-align-content: flex-end;
+    align-items: center;
+    -webkit-align-items: center;
+    }
+
+    .contact-info__links {
+        display: flex;
+        display: -webkit-flex;
+        margin-left: 0;
+        align-items: center;
+        -webkit-align-items: center;
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        justify-content: space-evenly;
+        -webkit-justify-content: space-evenly;
+    }
+
+    .footer {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .footer-text {
+        width: 100%;
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    margin-left: 0;
+    }
+
+    .footer__categories {
+        width: 80%;
+        display: flex;
+        display: -webkit-flex;
+        align-items: flex-start;
+        -webkit-align-items: flex-start;
+        margin-top: 2rem;
+        margin-left: 0;
+    }
+
+    .footer__news-title {
+        display: flex;
+        display: -webkit-flex;
+        margin-top: 2rem;
+        margin-left: 1rem;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+    }
+
+    .main__containers-info {
+        display: flex;
+        display: -webkit-flex;
+        align-items: center;
+        -webkit-align-items: center;
+        margin: 0.3rem 0rem;
+    }
+    .main__containers-img {
+        width: 12rem;
+        height: 6rem;
+        background: url('/assets/main/main-img.webp') center/cover no-repeat;
+    }
+
+    .main__containers-text {
+        font-size: 14px;
+        text-align: left;
+        -webkit-text-align: left;
+    }
+
+    .main__containers-text, .main__containers-autor, .main__containers-subtitle__info {
+        margin-bottom: 12px;
+    }
+
+    .main__containers-subtitle__info {
+        text-align: left;
+    }
+
+    .main__containers-block {
+        width: auto;
+        height: auto;
+        margin-bottom: 1rem;
+    }
+
+    .main__containers-blocks {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+
+    .pages-mobile {
+        width: auto;
+        display: block;
+        display: -webkit-block;
+        margin: 20px 0rem;
+    }
+
+    .reverse {
+        display: flex;
+        display: -webkit-flex;
+        flex-direction: column-reverse;
+        -webkit-flex-direction: column-reverse;
+        width: auto;
+    }
+
+    .sticky__containers-bitget {
+        display: flex;
+        display: -webkit-flex;
+        align-items: center;
+        -webkit-align-items: center;
+    }
+
+    .pages-wrapper {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .numbers_pages {
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+
+    .sticky__containers-title::after {
+        width: 12rem;
+    }
+
+    .page_numbers {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .nav__link-gambling {
+        display: none;
+        display: -webkit-none;
+    }
+
+    .footer__main-info {
+        width: 100%;
+        padding: 0 15px;
+        display: flex;
+        display: -webkit-flex;
+    margin: auto;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    align-items: center;
+    -webkit-align-items: center;
+    }
+
+    .footer__news-info {
+        width: 96%;
+        display: flex;
+        margin-top: 40px;
+        margin-bottom: 0px;
+        text-align: center;
+        -webkit-text-align: center;
+    }
+
+    .footer__news-date {
+        margin-top: 0;
+    }
+
+    .footer__news-img {
+    width: 13rem;
+    height: 4rem;
+    }
+
+    .footer__news {
+        display: flex;
+        display: -webkit-flex;
+        align-items: flex-start;
+        -webkit-align-items: center;
+        margin-left: 0;
+    }
+
+    .news-list, .footer__news-subtitle {
+        color: white;
+    }
+
+    .footer__news-subtitle {
+        margin-bottom: 0.5rem;
+        font-size: 13px;
+        margin-left: 5px
+    }
+
+    .footer__news-info, .footer-text {
+    display: flex;
+    display: -webkit-flex;
+    text-align: left;
+    -webkit-text-align: left;
+    margin-left: 10px;
+    }
+
+    .footer__decs-title {
+        text-align: center;
+        -webkit-text-align: center;
+    }
+
+    .footer__decs-title {
+        width: 71%;
+    }
+
+    .footer__decs {
+        width: 100%;
+    }
+
+    .footer__decs {
+    margin-left: 0;
+    margin-bottom: 2rem;
+    align-items: center;
+    -webkit-align-items: center;
+    }
+
+    .footer__news-date {
+        font-size: 10px;
+        text-align: left;
+        -webkit-text-align: left;
+    }
+
+    .articles {
+        text-align: left;
+        -webkit-text-align: left;
+        font-size: 0.9rem;
+    }
+
+    .contact-info {
+        display: flex;
+        display: -webkit-flex;
+        width: auto;
+        margin: auto;
+        flex-direction: column-reverse;
+        -webkit-flex-direction: column-reverse;
+        align-content: space-around;
+        -webkit-align-content: space-around;
+    }
+
+    .contact-info__rights {
+        padding-top: 10px;
+    }
+
+    .contact-info__link {
+        margin-right: 0;
+        margin-bottom: 4px;
+    }
+
+    .footer__decs-img {
+        margin-top: 3rem;
+        width: 23rem;
+        height: 3rem;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .footer__decs-img {
+        width: 19rem;
+        height: 3rem;
+    }
+
+    .sticky__nftcontainers-img {
+        width: 28rem;
+        height: 9rem;
+    }
+
+    .sticky__containers-subtitle {
+        margin-left: 1rem;
+    }
+
+    .sticky__containers-subtitle-info {
+        margin-left: 2rem;
+    }
+
+    .sticky__containers-text {
+        margin-left: 2rem;
+    }
+}
