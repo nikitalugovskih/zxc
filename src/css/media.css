@@ -1,7 +1,12 @@
 @media (max-width: 1920px) {
     #inputfield.open {
-        left: 80rem;
+        left: 72rem;
         top: 3rem;
+    }
+
+    .footer__decs-img {
+        width: 105%;
+        height: 13%;
     }
 }
 
@@ -26,7 +31,8 @@
     }
 
     .footer__decs-img {
-        width: 100%;
+        width: 112%;
+        height: 11%;
     }
 
     .footer__main-info {
@@ -146,13 +152,21 @@
     }
 
     .footer__decs-img {
-        width: 102%;
-        height: 7%;
+        width: 257px;
+        height: 36px;
     }
 
     .footer__categories {
         margin-left: 0;
         margin-right: 0;
+    }
+
+    .footer__categories-title {
+        margin-right: 0;
+    }
+
+    .footer__categories-title::after {
+        width: 13rem;
     }
 }
 
@@ -266,7 +280,7 @@
     }
 
     .sticky__containers-text {
-        margin-left: 10rem;
+        margin-left: 6rem;
         text-align: left;
         -webkit-text-align: left;
     }
@@ -338,7 +352,7 @@
     .contact-info__links {
         display: flex;
         display: -webkit-flex;
-        margin-left: 0;
+        margin-left: 1px;
         align-items: center;
         -webkit-align-items: center;
         flex-wrap: wrap;
@@ -578,7 +592,7 @@
 
     .footer__decs-img {
         margin-top: 3rem;
-        width: 23rem;
+        width: 19rem;
         height: 3rem;
     }
 
@@ -586,8 +600,17 @@
 
 @media (max-width: 320px) {
     .footer__decs-img {
-        width: 19rem;
-        height: 3rem;
+        width: 15rem;
+        height: 2rem;
+    }
+
+    .asd {
+        width: 10rem;
+        height: 2rem;
+    }
+
+    .search-btn {
+        left: 10rem;
     }
 
     .sticky__nftcontainers-img {
