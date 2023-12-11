@@ -37,6 +37,7 @@
 
     .footer__main-info {
         margin: 0;
+        padding: 1rem 1rem;
     }
 
     .contact-info_main {
@@ -70,6 +71,7 @@
     }
 
     .main_info {
+        margin: 0;
         width: auto;
         background-color: #fff;
         box-shadow: none;

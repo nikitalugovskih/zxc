@@ -1,7 +1,11 @@
+.main_info {
+    margin: 0 30rem;
+}
+
 .main__container {
     width: auto;
     height: auto;
-    margin: 0rem 17rem;
+    /* margin: 0rem 17rem; */
     background-color: rgba(221,51,51,0);
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.15);
     padding: 1rem;
@@ -214,7 +218,7 @@
     width: auto;
     height: auto;
     padding: 1rem;
-    margin: 0rem 17rem;
+    /* margin: 0rem 17rem; */
     background-color: rgba(221,51,51,0);
     box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.15);
 }
@@ -390,12 +394,12 @@ margin-top: 0.4rem;
     background-color: #fff;
     width: auto;
     height: 3rem;
-    margin: 0rem 17rem;
+    /* margin: 0rem 17rem; */
     display: flex;
     display: -webkit-flex;
     flex-direction: row;
     -webkit-flex-direction: row;
-    padding-left: 2rem;
+    /* padding-left: 2rem; */
 }
 
 .first_page, .second_page, .third_page, .last_page {
